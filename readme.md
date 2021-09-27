@@ -113,9 +113,9 @@ Distributed under the GNU GPL2 License. See `LICENSE` for more information.
 
 ## Meet the Team
 
-- [Kanit Mann](https://github.com/kanitmann)
-- [Vinayak Dubey](https://github.com/viny1ic)
-- [Vishikh Raj](https://github.com/dungeon-master27)
+- [Kanit Mann](https://github.com/kanitmann) :wolf:
+- [Vinayak Dubey](https://github.com/viny1ic) :koala:
+- [Vishikh Raj](https://github.com/dungeon-master27) :bear:
 
 > Made with 💙 by Kanit Mann
 
@@ -130,7 +130,7 @@ Distributed under the GNU GPL2 License. See `LICENSE` for more information.
 [stars-url]: https://github.com/kanitmann/JackTheHack/stargazers
 [issues-shield]: https://img.shields.io/github/issues/kanitmann/JackTheHack.svg?style=for-the-badge
 [issues-url]: https://github.com/kanitmann/JackTheHack/issues
-[license-shield]: https://img.shields.io/badge/license-SATA-blue?style=for-the-badge&logo=appveyor
+[license-shield]: https://img.shields.io/github/license/kanitmann/JackTheHack?style=for-the-badge&logo=appveyor
 [license-url]: https://github.com/kanitmann/JackTheHack/blob/master/LICENSE.txt
 [made-with-shield]: https://img.shields.io/github/languages/top/kanitmann/JackTheHack?style=for-the-badge
 [made-with-url]: https://shields.io/github/languages/top/kanitmann/JackTheHack.svg?style-for-the-badge
