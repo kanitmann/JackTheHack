@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kanitmann/JackTheHack">
-    <img src="./Assets/Hacked_the_Jack" alt="Logo" width="80" height="80">
+    <img src="./Assets/Hacked_the_Jack.png" alt="Logo" width="260" height="260">
   </a>
 
   <h3 align="center">Hacked the Jack</h3>
@@ -91,10 +91,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/kanitmann/JackTheHack.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+2. 
 
 <!-- USAGE EXAMPLES -->
 
@@ -141,16 +138,16 @@ Distributed under the SATA License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/kanitmann/hackathon_readme_template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/kanitmann/JackTheHack.svg?style=for-the-badge
 [contributors-url]: https://github.com/kanitmann/JackTheHack/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kanitmann/hackathon_readme_template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/kanitmann/JackTheHack.svg?style=for-the-badge
 [forks-url]: https://github.com/kanitmann/JackTheHack/network/members
-[stars-shield]: https://img.shields.io/github/stars/kanitmann/hackathon_readme_template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/kanitmann/JackTheHack.svg?style=for-the-badge
 [stars-url]: https://github.com/kanitmann/JackTheHack/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kanitmann/hackathon_readme_template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/kanitmann/JackTheHack.svg?style=for-the-badge
 [issues-url]: https://github.com/kanitmann/JackTheHack/issues
 [license-shield]: https://img.shields.io/badge/license-SATA-blue?style=for-the-badge&logo=appveyor
 [license-url]: https://github.com/kanitmann/JackTheHack/blob/master/LICENSE.txt
-[made-with-shield]: https://img.shields.io/github/languages/top/kanitmann/hackathon_readme_template?style=for-the-badge
-[made-with-url]: https://shields.io/github/languages/top/kanitmann/hackathon_readme_template.svg?style-for-the-badge
+[made-with-shield]: https://img.shields.io/github/languages/top/kanitmann/JackTheHack?style=for-the-badge
+[made-with-url]: https://shields.io/github/languages/top/kanitmann/JackTheHack.svg?style-for-the-badge
 [product-screenshot]: (images/screenshot.png)
