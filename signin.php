@@ -11,3 +11,4 @@
     if ($TOKEN == $token){
         echo "authenticated! enjoy your high speed internet connection"
     }
+?>
