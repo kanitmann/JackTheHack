@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kanitmann/JackTheHack">
-    <img src="./Assets/Hacked_the_Jack.png" alt="Logo" width="260" height="260">
+    <img src="./Assets/Hacked_the_Jack" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Hacked the Jack</h3>
@@ -52,9 +52,8 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#acknowledgements">Meet the Team</a></li>
   </ol>
 </details>
 
@@ -80,10 +79,7 @@ To get a local copy up and running follow these simple steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+- 
 
 ### Installation
 
@@ -107,31 +103,19 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/kanitmann/JackTheHack/issues) for a list of proposed features (and known issues).
 
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 <!-- LICENSE -->
 
 ## License
 
-Distributed under the SATA License. See `LICENSE` for more information.
+Distributed under the GNU GPL2 License. See `LICENSE` for more information.
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## Acknowledgements
+## Meet the Team
 
-- []()
-- []()
-- []()
+- [Kanit Mann](https://github.com/kanitmann)
+- [Vinayak Dubey](https://github.com/viny1ic)
+- [Vishikh Raj](https://github.com/dungeon-master27)
 
 > Made with 💙 by Kanit Mann
 
