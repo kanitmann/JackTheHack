@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kanitmann/JackTheHack">
-    <img src="./Assets/Hacked_the_Jack" alt="Logo" width="80" height="80">
+    <img src="./Assets/Hacked_the_Jack.png" alt="Logo" width="280" height="280">
   </a>
 
   <h3 align="center">Hacked the Jack</h3>
