@@ -1,15 +1,16 @@
 import qrcode
 # import pillow
 
-GATEWAY = '192.168.1.1'
+GATEWAY = '192.168.1.10'
 
 class ticket:
     def __init__(self, name, ticket_no, mob):
+        self.TOKEN = 'abcdefghijk'
         self.NAME = name
         self.TICKET = ticket_no
         self.MOB = mob
     def generate(self):
-        URL = GATEWAY + "/signin.php?name="+self.NAME+"&ticket="+str(self.TICKET)+"&mob="+str(self.MOB)
+        URL = GATEWAY + "/signin.php?name="+self.NAME+"&ticket="+str(self.TICKET)+"&mob="+str(self.MOB)+"&token="+self.TOKEN
         qr = qrcode.QRCode(version=1, box_size=10, border=5)
         qr.add_data(URL)
         qr.make(fit=True)
