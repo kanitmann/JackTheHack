@@ -12,7 +12,7 @@
 </head>
 <div style="background-image: url(/images/adani\ airport.jpg.png)">
 <body>
-    <h3><img src="/images/adani digital labs.png" height="40" width="40"></h3>
+    <h3><img src="../Assets/adani digital labs.png" height="40" width="40"></h3>
 	<div id="notfound">
 		<div class="notfound">
 			<div class="notfound-404">

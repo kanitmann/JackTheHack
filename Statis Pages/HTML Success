@@ -12,12 +12,12 @@
 </head>
 <div style="background-image: url(/images/adani\ airport.jpg.png)">
 <body>
-    <h3><img src="/images/adani digital labs.png" height="40" width="40"></h3>
+    <h3><img src="../Assets/adani digital labs.png" height="40" width="40"></h3>
 	<div id="notfound">
 		<div class="notfound">
 			<div class="notfound-404">
-				<h1>Oops!</h1>
-				<h2>404 - The Page can't be found</h2>
+				<h1>YaY!</h1>
+				<h2>Enjoy your High Speed Internet!</h2>
 			</div>
 			<a href="#">Go TO Homepage</a>
 		</div>
