@@ -11,9 +11,9 @@
 		<link type="text/css" rel="stylesheet" href="css/main2.css" />
 
 	</head>
-	<div style="background-image: url(/images/adani\ airport.jpg.png)">
+	<div style="background-image: url(../Asset/adani\ airport.png)">
 		<body>
-			<h3><img src="../Assets/adani digital labs.png" height="40" width="40"></h3>
+			<h3><img src="../Asset/adani digital labs.png" height="40" width="40"></h3>
 			<div id="notfound">
 				<div class="notfound">
 					<div class="notfound-404">
