@@ -14,10 +14,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/kanitmann/JackTheHack">
-    <img src="./Assets/Hacked_the_Jack.png" alt="Logo" width="280" height="280">
+    <img src="./Asset/Hacked_the_Jack.png" alt="Logo" width="280" height="280">
   </a>
 
-  <h3 align="center">Hacked the Jack</h3>
+  <h3 align="center">Gizmo - Airport Assistant </h3>
 
   <p align="center">
     *To be Updated*
@@ -61,13 +61,32 @@
 
 ## About The Project
 
+<p>
+
+**Problem 1:**
+
+Airport wifis can be tedious to log in and manage, and a lot of people just turn to mobile data to save all the hassle.
+
+**Proposed Solution:**
+
+Gizmo is supposed to be an "Adani Airport Assistant" web app, which can scan automatically log in to Airport Wifi for you. All you need to do is to scan a QR code on your ticket (which will contain your information and Wifi Connection keys).
+
+**Problem 2:**
+
+Large Airports can be a hassle to navigate for shops, food points, lounges, basic facilities, etc. 
+
+**Proposed Solution:**
+
+All shops are mapped on Gizmo and users can be navigated to desired stores with the shortest route possible (with A* algorithm). Precise user location is determined using GPS and WiFi positioning.
+</p>
+
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With
 
-- []()
-- []()
-- []()
+- [Python](https://www.python.org/)
+- [PHP](https://www.php.net/)
+- [HTML5 + CSS3]()
 
 <!-- GETTING STARTED -->
 
@@ -77,9 +96,10 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This list things you need to use the web app and how to install them.
 
-- 
+- Python 3.6.8
+- PHP
 
 ### Installation
 
@@ -87,9 +107,8 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/kanitmann/JackTheHack.git
    ```
-2. 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE EXAMPLES 
 
 ## Usage
 
@@ -97,7 +116,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<!-- ROADMAP -->
+ ROADMAP -->
 
 ## Roadmap
 
@@ -107,7 +126,7 @@ See the [open issues](https://github.com/kanitmann/JackTheHack/issues) for a lis
 
 ## License
 
-Distributed under the GNU GPL2 License. See `LICENSE` for more information.
+Distributed under the GNU GPL3 License. See `LICENSE` for more information.
 
 <!-- ACKNOWLEDGEMENTS -->
 
