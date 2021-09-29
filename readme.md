@@ -116,6 +116,19 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
  ROADMAP -->
+## Screenshots
+
+1. QR Code Generated on Ticket
+
+<img src="./Asset/QR.jpeg" alt="QR" width="280" height="280">
+
+2. Connection Successful Page
+
+<img src="./Asset/img1.jpeg" alt="SS1" width="280" height="420">
+
+3. Connection Error
+
+<img src="./Asset/img2.jpeg" alt="SS2" width="280" height="420">
 
 ## Roadmap
 
