@@ -80,7 +80,6 @@ Large Airports can be a hassle to navigate for shops, food points, lounges, basi
 All shops are mapped on Gizmo and users can be navigated to desired stores with the shortest route possible (with A* algorithm). Precise user location is determined using GPS and WiFi positioning.
 </p>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With
 
